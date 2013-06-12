@@ -22,7 +22,3 @@ Usage
 	....
 </database>
 ```
-
-Attention
------
-If the behavior is added after generating the skeleton models, you will manually have to add `implements ArrayAccess` to
