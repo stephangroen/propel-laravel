@@ -22,3 +22,7 @@ Usage
 	....
 </database>
 ```
+
+Integrating Propel in Laravel 4
+-----
+Here is a tutorial on [how to integrate Propel in Laravel 4](http://picqer.com/blog/propel-with-laravel).
